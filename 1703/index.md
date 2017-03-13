@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  'R Programming Foundations for Life Scientists, 2 hp - November 2016'
+title:  'R Programming Foundations for Life Scientists, 2 hp - Mars 2017'
 --- 
 
 
 # R Programming Foundations for Life Scientists, 2 hp
 
-Held in Uppsala November 28 - December 2, 2016.
+Held in Uppsala Mars 27 - Mars 31, 2017.
 
 ## Important Links
 [Pre-course material](precourse)   
@@ -20,4 +20,4 @@ Held in Uppsala November 28 - December 2, 2016.
 ## Teachers
 Marcin Kiercak - Uppsala University  
 Thomas Källman - thomas.kallman@nbis.se, Uppsala University, NBIS, Sclilifelab  
-...
+et al.
